@@ -4,3 +4,5 @@ Team members (N01)
 * Philippe Lejeune
 * Amine Halimi
 * Seyed Mohammad Lajevardi
+* Najim Ghafourzadeh
+* Cristian Tesa
